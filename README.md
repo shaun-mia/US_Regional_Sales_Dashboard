@@ -1,3 +1,5 @@
+---
+
 # US Regional Sales Analysis Dashboard
 
 This project provides a comprehensive analysis of sales performance across different regions in the U.S., using **Power BI** for data visualization and analysis. The dashboard delivers insights into total sales, profit, costs, and key customer and product metrics, offering decision-makers clear visibility into the business's regional and temporal performance.
@@ -67,6 +69,12 @@ Special thanks to **Ayushi Jain**, mentor at **WsCube Tech**, whose tutorials si
 
 ---
 
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/shaun-mia/US_Regional_Sales_Dashboard/blob/main/LICENSE) file for details.
+
+---
+
 ## Contact 📧
 
 For any questions or feedback, feel free to contact me:
@@ -74,3 +82,4 @@ For any questions or feedback, feel free to contact me:
 - Email: shaunmia.cse@gmail.com  
 - LinkedIn: [Shaun Mia](https://www.linkedin.com/in/shaun-mia)
 
+---
